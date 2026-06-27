@@ -1,0 +1,8 @@
+{
+  "name": "Nuansa Psychology Consulting",
+  "description": "Redesain modern, profesional, dan interaktif dari Nuansa Psychology Consulting dengan optimasi SEO terpadu, kalkulator biaya konsultasi, dan Panduan Penanganan Keluhan sesuai standar psikologi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
