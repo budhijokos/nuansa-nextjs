@@ -1,0 +1,16 @@
+# robots.txt untuk Nuansa Psychology Consulting (PT Nuansa Daya Persada)
+# Mengatur akses mesin perayap (Googlebot, Bingbot, dll.) ke halaman situs
+
+User-agent: *
+Allow: /
+Allow: /artikel
+Allow: /artikel/*
+
+# Blokir perayapan untuk API dan data internal Next.js
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /*?* # Blokir URL dengan parameter query untuk mencegah duplikasi konten
+
+# Tentukan lokasi sitemap utama
+Sitemap: https://nuansaconsulting.com/sitemap.xml
